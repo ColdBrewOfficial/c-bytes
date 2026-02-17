@@ -8,5 +8,10 @@
     "name":"Hollow Knight",
     "cover":"https://coldbrewofficial.github.io/c-bytes/games/HollowKnight/hollow.png",
     "url":"https://coldbrewofficial.github.io/c-bytes/games/HollowKnight/index.html"
+  },
+  {
+  "name":"GTA: Vice City",
+  "cover":"https://coldbrewofficial.github.io/c-bytes/games/GTAVC/VC.png",
+  "url":"https://coldbrewofficial.github.io/c-bytes/games/GTAVC/index.html"
   }
 ]
